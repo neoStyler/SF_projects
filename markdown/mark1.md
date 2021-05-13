@@ -33,4 +33,5 @@ sequenceDiagram
     Dobs-->>Front(App): Если есть ошибка то в ответ редиректим на {Url из начала процесса}?error=esia-error
     Esia->>EsiaService: Информация о пользователе
     EsiaService->>Dobs: Информация о пользователе
-    Dobs->>Front(App): Редирект на Url из начала процесса```
+    Dobs->>Front(App): Редирект на Url из начала процесса
+    ```
