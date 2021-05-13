@@ -1,1 +1,4 @@
-[![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggVERcbkFbSlZNIFJ1bnRpbWVdLS0-QltKYXZhIEhlYXBdXG5BLS0-Q1tDbGFzcyBMb2FkaW5nXVxuQS0tPkRbSklUIENvbXBpbGF0aW9uXSBcbkEtLT5FW1RocmVhZHNdXG5cbiIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In0sInVwZGF0ZUVkaXRvciI6ZmFsc2V9)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbkFbSlZNIFJ1bnRpbWVdLS0-QltKYXZhIEhlYXBdXG5BLS0-Q1tDbGFzcyBMb2FkaW5nXVxuQS0tPkRbSklUIENvbXBpbGF0aW9uXSBcbkEtLT5FW1RocmVhZHNdXG5cbiIsIm1lcm1haWQiOnsidGhlbWUiOiJkZWZhdWx0In0sInVwZGF0ZUVkaXRvciI6ZmFsc2V9)
+Andrew->China: Says Hello
+Note right of China: China thinks\nabout it
+China-->Andrew: How are you?
+Andrew->>China: I am good thanks!
